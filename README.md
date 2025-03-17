@@ -17,7 +17,7 @@ O projeto segue princípios de **Paradigmas de Programação Orientada a Objetos
 
 ## 💻 Tecnologias utilizadas
 
-- **Python 3.x**: Linguagem utilizada para o desenvolvimento do sistema.
+- **Python 3.11**: Linguagem utilizada para o desenvolvimento do sistema.
 - **Paradigmas de Programação Orientada a Objetos (POO)**: Utilização de classes e objetos, com atributos privados e métodos de acesso, encapsulando dados sensíveis.
 
 ## 🛠️ Instalando e Rodando
