@@ -1,4 +1,4 @@
-#🏧 Caixa Eletrônico
+# 🏧 Caixa Eletrônico
 ![Static Badge](https://img.shields.io/badge/status-Active-gren?style=for-the-badge)
 
 
@@ -28,8 +28,6 @@ O projeto segue princípios de **Paradigmas de Programação Orientada a Objetos
 
 3. Execute o script principal:: `python CaixaEletronico.py`
 
-```bash
-git clone https://github.com/seu-usuario/caixa-eletronico.git
 
 ##  📌 Futuras Melhorias
 
